@@ -24,10 +24,3 @@ The agent is capable of answering questions by reasoning and searching for curre
 
 ---
 
-## 📦 Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/langchain-groq-agent.git
-   cd langchain-groq-agent
